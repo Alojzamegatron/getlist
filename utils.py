@@ -15,3 +15,5 @@ def remove_task(index):
         with open('todo.txt', 'w') as f:
             f.writelines(tasks)
 # TODO: add unit tests
+
+# End of file
