@@ -12,3 +12,7 @@ Use `python3 main.py` to manage your day.
 
 ## License
 MIT
+
+
+## Credits
+Made by Alojzamegatron
