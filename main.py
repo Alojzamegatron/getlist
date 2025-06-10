@@ -15,3 +15,5 @@ elif args.command == 'remove' and args.arg:
     remove_task(int(args.arg))
 
 print('Done')
+
+print(Use responsibly.)
