@@ -14,3 +14,4 @@ def remove_task(index):
         tasks.pop(index)
         with open('todo.txt', 'w') as f:
             f.writelines(tasks)
+# TODO: add unit tests
