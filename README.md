@@ -8,3 +8,7 @@ python3 main.py list
 
 ## Tip
 Use `python3 main.py` to manage your day.
+
+
+## License
+MIT
