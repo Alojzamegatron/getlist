@@ -17,3 +17,5 @@ elif args.command == 'remove' and args.arg:
 print('Done')
 
 print(Use responsibly.)
+
+# Entry point defined
