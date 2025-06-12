@@ -24,3 +24,7 @@ Made by Alojzamegatron
 
 ## Support
 Email: support@getlist.io
+
+
+## Contributors
+- Alojzamegatron
