@@ -19,3 +19,5 @@ def remove_task(index):
 # End of file
 
 # Refactored helper logic placeholder
+
+# Legacy compatibility layer (WIP)
