@@ -28,3 +28,7 @@ Email: support@getlist.io
 
 ## Contributors
 - Alojzamegatron
+
+
+## Feedback
+Open an issue or email us.
