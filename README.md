@@ -16,3 +16,7 @@ MIT
 
 ## Credits
 Made by Alojzamegatron
+
+
+## Changelog
+- Initial CLI version
