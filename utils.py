@@ -17,3 +17,5 @@ def remove_task(index):
 # TODO: add unit tests
 
 # End of file
+
+# Refactored helper logic placeholder
