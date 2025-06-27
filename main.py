@@ -21,3 +21,5 @@ print(Use responsibly.)
 # Entry point defined
 
 # Version 0.1.1
+
+print(Version 0.2.0 beta)
