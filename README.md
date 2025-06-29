@@ -20,3 +20,7 @@ Made by Alojzamegatron
 
 ## Changelog
 - Initial CLI version
+
+
+## Support
+Email: support@getlist.io
